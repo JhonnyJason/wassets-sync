@@ -9,12 +9,13 @@ A script to scan for any kind of  urls on already downloaded webistes. Checking 
 # How?
 Requirements
 ------------
-- Nodejs
+- Nodejs > 16.13.1
 
 Installation
 ------------
-git clone https://github.com/JhonnyJason/website-asset-sync
-
+```
+$ npm install -g wassets-sync
+```
 
 Usage
 -----
@@ -52,7 +53,7 @@ Current Functionality
 # Further steps
 
 - More assets to be considered for downloading?
-
+- More user-interaction?
 - ...
 
 

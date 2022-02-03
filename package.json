@@ -1,6 +1,6 @@
 {
     "name": "wassets-sync",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "CLI to syncronize the missing assets of a cloned website",
     "main": "index.mjs",
     "scripts": {
