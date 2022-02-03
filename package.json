@@ -1,0 +1,28 @@
+{
+    "name": "wassets-sync",
+    "version": "0.0.1",
+    "description": "CLI to syncronize the missing assets of a cloned website",
+    "main": "index.mjs",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["website", "assets", "download"],
+    "author": "Lenard Frommelt lenard@frommelt.dev",
+    "license": "Unlicense",
+    "bin": {
+        "wassets-sync": "./index.mjs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JhonnyJason/wassets-sync.git"
+    },
+    "bugs": {
+        "url": "https://github.com/JhonnyJason/wassets-sync/issues"
+    },
+    "homepage": "https://github.com/JhonnyJason/wassets-sync",
+    "dependencies": {
+        "chalk": "^5.0.0",
+        "meow": "^10.1.2",
+        "node-fetch": "^3.2.0"
+    }
+}
