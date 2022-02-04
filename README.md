@@ -9,7 +9,7 @@ A script to scan for any kind of  urls on already downloaded webistes. Checking 
 # How?
 Requirements
 ------------
-- Nodejs > 16.13.1
+- Nodejs
 
 Installation
 ------------
